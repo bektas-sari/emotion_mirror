@@ -1,6 +1,7 @@
 # 🧠 Emotion Mirror II (Flutter APP)
 
-**Emotion Mirror** is a minimal, elegant Flutter mobile app designed to help users reflect on their current emotional state through creative metaphors. The app invites users to choose how they feel and returns a metaphor that mirrors that feeling—encouraging mindfulness, self-awareness, and emotional literacy.
+**Emotion Mirror** is a minimal, elegant Flutter mobile app designed to help users reflect on their current emotional state through creative metaphors.
+The app invites users to choose how they feel and returns a metaphor that mirrors that feeling—encouraging mindfulness, self-awareness, and emotional literacy.
 
 ---
 
@@ -12,16 +13,6 @@
 * 🎨 Clean, responsive interface using Material Design
 * 🌗 Soft color palette for a soothing experience
 * 📱 One-page app optimized for mobile
-
----
-
-## 📸 Screenshots
-
-*(You can replace this with actual screenshots later)*
-
-| Emotion Picker                      | Metaphor Display                   |
-| ----------------------------------- | ---------------------------------- |
-| ![](screenshots/emotion_picker.png) | ![](screenshots/metaphor_card.png) |
 
 ---
 
@@ -88,30 +79,22 @@ Metaphors are stored in a `Map<String, List<String>>` and selected randomly usin
 ## 👤 Developer
 
 **Bektas Sari**
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-GitHub: [bektas-sari](https://github.com/bektas-sari)
-LinkedIn: [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)
-ResearchGate: [Bektas Sari](https://www.researchgate.net/profile/Bektas-Sari-3)
-Academia: [academia.edu](https://independent.academia.edu/bektassari)
+Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)<br>
+GitHub: [bektas-sari](https://github.com/bektas-sari)<br>
+LinkedIn: [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)<br>
+ResearchGate: [Bektas Sari](https://www.researchgate.net/profile/Bektas-Sari-3)<br>
+Academia: [academia.edu](https://independent.academia.edu/bektassari)<br>
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
 ## 💡 Inspiration
 
 This app was inspired by the idea that emotions are often hard to describe—but metaphors make them more accessible. By reflecting on feelings through metaphor, users can develop a deeper emotional understanding and creative perspective.
-
----
-
-## 🤝 Contributions
-
-Pull requests are welcome! If you'd like to contribute metaphors, UI enhancements, or features, feel free to fork the repository and open a PR.
-
----
 
 **Made with ❤️ in Flutter.**

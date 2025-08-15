@@ -1,4 +1,4 @@
-# 🧠 Emotion Mirror
+# 🧠 Emotion Mirror II (Flutter APP)
 
 **Emotion Mirror** is a minimal, elegant Flutter mobile app designed to help users reflect on their current emotional state through creative metaphors. The app invites users to choose how they feel and returns a metaphor that mirrors that feeling—encouraging mindfulness, self-awareness, and emotional literacy.
 
